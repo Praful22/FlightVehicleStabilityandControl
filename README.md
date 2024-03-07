@@ -1,2 +1,2 @@
 # FlightVehicleStabilityandControl
-A flight simulator with a visualizer built from scratch using SIMULINK/MATLAB for AME-532 a course.
+A flight simulator with a FlightSim visualizer built from first principles using SIMULINK/MATLAB to learn the application of Flight Vehicle Dynamics and Control.
